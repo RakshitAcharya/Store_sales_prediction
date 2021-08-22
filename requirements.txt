@@ -1,6 +1,6 @@
 scikit-learn
 pandas
-streamlit==0.77.0
+streamlit
 gunicorn==20.0.4
 itsdangerous==1.1.0
 Jinja2==2.11.3
